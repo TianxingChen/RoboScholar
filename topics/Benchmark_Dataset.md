@@ -14,3 +14,5 @@
 * **[CVPR 19]** PartNet: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level 3D Object Understanding, [website](https://partnet.cs.stanford.edu/)
 
 * **[CVPR 21]** 3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding, [website](https://andlollipopde.github.io/3D-AffordanceNet/#/)
+
+* **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
