@@ -1,6 +1,5 @@
 # Paper List for Robotics & Embodied AI - [Tianxing Chen](https://tianxingchen.github.io)
 ## 0. Table of contents
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTianxingChen%2FPaper-List-For-EmbodiedAI&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
 1. Manipulation
    - Imitation Learning
@@ -38,6 +37,9 @@
 14. Gaussion Splatting
 15. Robotics for Medical
 16. Companies
+
+# Recent Random Papers
+1. **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
 
 ## 1. Diffusion Model for Planning, Policy, and RL
 * **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
