@@ -39,7 +39,8 @@
 16. Companies
 
 # Recent Random Papers
-1. **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
+* **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/abs/2504.12908)
+* **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
 
 ## 1. Diffusion Model for Planning, Policy, and RL
 * **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
