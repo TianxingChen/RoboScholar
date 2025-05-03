@@ -39,6 +39,7 @@
 16. Companies
 
 # Recent Random Papers
+* **[arXiv 24]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, [arXiv](https://arxiv.org/abs/2411.19650)
 * **[arXiv 25]** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation, [arXiv](https://arxiv.org/abs/2504.17784)
 * **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/abs/2504.12908)
 * **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
