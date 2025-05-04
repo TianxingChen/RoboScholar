@@ -1,4 +1,9 @@
-# Embodied AI Paper List @ [Lumina EAI Community](https://lumina-embodied.ai/)
+<h1 align="center">
+	Embodied AI Paper List @ <a href="https://lumina-embodied.ai/">Lumina Embodied AI Community</a>
+</h1>
+
+<div align=center><img src="https://tianxingchen.github.io/files/institute/lumina-logo.png" width="20%" /></div>
+
 ## 0. Table of contents
 
 1. Manipulation
