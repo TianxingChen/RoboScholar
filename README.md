@@ -62,6 +62,8 @@
 16. Companies
 
 # Recent Random Papers
+* **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/pdf/2504.12908)
+* **[RSS 25]** Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation, [arXiv](https://reactive-diffusion-policy.github.io/)
 * **[arXiv 24]** GRAPE: Generalizing Robot Policy via Preference Alignment, [arXiv](https://arxiv.org/abs/2411.19309)
 * **[arXiv 25]** GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill, [arXiv](https://arxiv.org/abs/2504.04191)
 * **[arXiv 24]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, [arXiv](https://arxiv.org/abs/2409.20537)
