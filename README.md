@@ -1,4 +1,4 @@
-# Paper List for Robotics & Embodied AI - [Tianxing Chen](https://tianxingchen.github.io)
+# Embodied AI Paper List @ [Lumina EAI Community](https://lumina-embodied.ai/)
 ## 0. Table of contents
 
 1. Manipulation
