@@ -39,6 +39,7 @@
 16. Companies
 
 # Recent Random Papers
+* **[arXiv 24]** GRAPE: Generalizing Robot Policy via Preference Alignment, [arXiv](https://arxiv.org/abs/2411.19309)
 * **[arXiv 25]** GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill, [arXiv](https://arxiv.org/abs/2504.04191)
 * **[arXiv 24]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, [arXiv](https://arxiv.org/abs/2409.20537)
 * **[arXiv 24]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, [arXiv](https://arxiv.org/abs/2411.19650)
