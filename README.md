@@ -62,6 +62,7 @@
 16. Companies
 
 # Recent Random Papers
+* **[RSS 25]** Unified Video Action Model, [webpage](https://unified-video-action-model.github.io/)
 * **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/pdf/2504.12908)
 * **[RSS 25]** Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation, [arXiv](https://reactive-diffusion-policy.github.io/)
 * **[arXiv 24]** GRAPE: Generalizing Robot Policy via Preference Alignment, [arXiv](https://arxiv.org/abs/2411.19309)
