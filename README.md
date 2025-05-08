@@ -62,6 +62,7 @@
 16. Companies
 
 # Recent Random Papers
+* **[arXiv 25]** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation, [webpage](https://arxiv.org/abs/2504.17784)
 * **[arXiv 25]** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model, [webpage](https://arxiv.org/abs/2501.15830)
 * **[RSS 25]** Unified Video Action Model, [webpage](https://unified-video-action-model.github.io/)
 * **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/pdf/2504.12908)
