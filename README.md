@@ -62,6 +62,8 @@
 16. Companies
 
 # Recent Random Papers
+Open-Vocabulary 3D Articulated Objects Modeling
+* **[arXiv 25]** Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling, [arXiv](https://arxiv.org/abs/2502.02590)
 * **[arXiv 25]** LEMON: Learning 3D Human-Object Interaction Relation from 2D Images, [arXiv](https://arxiv.org/pdf/2312.08963)
 * **[arXiv 25]** Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2505.04619)
 * **[arXiv 25]** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation, [arXiv](https://arxiv.org/abs/2504.17784)
