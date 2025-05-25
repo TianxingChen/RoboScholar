@@ -63,6 +63,7 @@
 
 # Recent Random Papers
 Open-Vocabulary 3D Articulated Objects Modeling
+* **[arXiv 25]** Robo-DM: Data Management For Large Robot Datasets, [arXiv](https://arxiv.org/abs/2505.15558)
 * **[arXiv 25]** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization, [arXiv](https://arxiv.org/abs/2505.15660)
 * **[arXiv 25]** Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2505.13982)
 * **[arXiv 25]** DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories, [arXiv](https://arxiv.org/abs/2505.12705)
