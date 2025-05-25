@@ -63,6 +63,7 @@
 
 # Recent Random Papers
 Open-Vocabulary 3D Articulated Objects Modeling
+* **[arXiv 25]** DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories, [arXiv](https://arxiv.org/abs/2505.12705)
 * **[arXiv 25]** Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling, [arXiv](https://arxiv.org/abs/2502.02590)
 * **[arXiv 25]** LEMON: Learning 3D Human-Object Interaction Relation from 2D Images, [arXiv](https://arxiv.org/pdf/2312.08963)
 * **[arXiv 25]** Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2505.04619)
