@@ -1,138 +1,64 @@
-# Manipulation
+<h1 align="center">
+	Manipulation
+</h1>
 
-## 1. Vision Language Model
+## Dexterous Manipulation
 
-## 2. Dexterous Manipulation
+* **[arXiv 25]** Dexterity Gen: Foundation Controller for Unprecedented Dexterity, [website](https://zhaohengyin.github.io/dexteritygen/)
 
-* **[CVPR 23]** Affordance Diffusion: Synthesizing Hand-Object Interactions, [website](https://judyye.github.io/affordiffusion-www/)
+## Vision Language Action (VLA)
 
-* **[CVPR 19]** ContactGrasp: Functional Multi-finger Grasp Synthesis from Contact, [website](https://contactdb.cc.gatech.edu/contactgrasp.html)
+* **[arXiv 25]** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos, [website](https://rchalyang.github.io/EgoVLA/)
 
-* **[CVPR 19]** Learning joint reconstruction of hands and manipulated objects, [website](https://hassony2.github.io/obman)
+* **[RSS 23]** Octo: An Open-Source Generalist Robot Policy, [website](https://octo-models.github.io/)
 
-* **[ECCV 24]** GraspXL: Generating Grasping Motions for Diverse Objects at Scale, [website](https://eth-ait.github.io/graspxl/)
+* **[arXiv 22]** RT-1: Robotics Transformer for Real-World Control at Scale, [arXiv](https://arxiv.org/abs/2212.06817)
 
-* **[arXiv 24]** DexDiffuser: Generating Dexterous Grasps with Diffusion Models, [website](https://yulihn.github.io/DexDiffuser_page/)
+* **[arXiv 23]** RT-2: Vision-Language-Action Models, [website](https://robotics-transformer2.github.io/)
 
-* **[3DV 20]** Grasping Field: Learning Implicit Representations for Human Grasps, [PDF](https://arxiv.org/pdf/2008.04451)
+* **[ICLR 24 (Spotlight)]** RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches, [website](https://rt-trajectory.github.io/)
 
-* **[ECCV 22]** TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement, [website](https://virtualhumans.mpi-inf.mpg.de/toch/)
+* **[arXiv 24]** OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/)
 
-* **[CVPR 21]** ContactOpt: Optimizing Contact To Improve Grasps, [website](https://www.pgrady.net/contactopt/)
+* **[arXiv 25]** OpenVLA-oft: Fine-Tuning Vision-Language-Action Models:
+Optimizing Speed and Success, [website](https://openvla-oft.github.io/)
 
-* **[CVPR 20]** GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes / YCB-Affordance Dataset, [website](https://enriccorona.github.io/ganhand/)
+* **[RAL 25]** TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation, [website](https://tiny-vla.github.io/)
 
-* **[ICCV 21(Oral)]** Hand-Object Contact Consistency Reasoning for Human Grasps Generation, [website](https://hwjiang1510.github.io/GraspTTA/)
+* **[arXiv 24]** TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies, [arXiv](https://arxiv.org/abs/2412.10345)
 
-* **[ICRA 21]** Learning Dexterous Grasping with Object-Centric Visual Affordances, [website](https://vision.cs.utexas.edu/projects/graff-dexterous-affordance-grasp/)
+* **[arXiv 25]** π0: A Vision-Language-Action Flow Model for
+General Robot Control, [pdf](https://www.physicalintelligence.company/download/pi0.pdf)
 
-* **[CoRL Workshop 24(Best Paper)]** D(R,O) Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping, [website](https://nus-lins-lab.github.io/drograspweb/)
+* **[arXiv 25]** π0.5: a Vision-Language-Action Model with Open-World Generalization, [arXiv](https://arxiv.org/abs/2504.16054)
 
-* **[IROS 23]** DexRepNet: Learning Dexterous Robotic Grasping Network with Geometric and Spatial Hand-Object Representations, [arXiv](https://arxiv.org/abs/2303.09806)
+* **[arXiv 25]** ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model, [website](https://chatvla.github.io/)
 
-* **[ICLR 24]** GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion, [website](https://meowuu7.github.io/GeneOH-Diffusion/)
+* **[arXiv 25]** ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge, [website](https://chatvla-2.github.io/)
 
-* **[CVPR 24]** Physics-aware Hand-object Interaction Denoising, [arXiv](https://arxiv.org/pdf/2405.11481)
+* **[ICLR 25]** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/)
 
-* **[SIGGRAPH 21]** ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation, [website](https://github.com/cghezhang/ManipNet)
+* **[arXiv 25]** A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation, [website](https://a-embodied.github.io/A0/)
 
-* **[IJCAI 23]** Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint, [arXiv](https://arxiv.org/abs/2210.09245)
 
-* **[IJCAI 24]** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand, [website](https://4dvlab.github.io/RealDex_page/)
+* **[arXiv 25]** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model, [website](https://spatialvla.github.io/)
 
-* **[CoRL 22]** Learning Generalizable Dexterous Manipulation from Human Grasp Affordance, [website](https://kristery.github.io/ILAD/)
+* **[arXiv 25]** UniVLA: Learning to Act Anywhere with Task-centric Latent Actions, [PDF](https://arxiv.org/pdf/2505.06111)
 
-* **[RSS 16]** Understanding Hand-Object Manipulation with Grasp Types and Object Attributes, [PDF](https://www.cs.cmu.edu/~kkitani/pdf/CKY-RSS16.pdf)
+* **[CVPR 25]** UniAct: Universal Actions for Enhanced Embodied Foundation Models, [website](https://2toinf.github.io/UniAct/)
 
-* **[Graphical Models 24]** DINA: Deformable INteraction Analogy, [website](https://vcc.tech/research/2024/DINA)
+* **[arXiv 25]** DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control, [website](https://dex-vla.github.io/)
 
-* **[ECCV 24]** Learning Cross-hand Policies of High-DOF Reaching and Grasping, [website](https://qijinshe.github.io/IBS-Retargeting.github.io/)
+* **[arXiv 25]** GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data, [arXiv](https://arxiv.org/abs/2505.03233)
 
-* **[SIGGRAPH 22]** Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction, [website](https://vcc.tech/research/2022/Grasping)
+https://unified-video-action-model.github.io/
 
-* **[ICRA 23]** Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance, [website](https://sites.google.com/view/dexterous-avail/)
+* **[ICLR 25]** Latent Action Pretraining from videos, [arXiv](https://arxiv.org/pdf/2410.11758)
 
-* **[IROS 24(Oral)]** ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots, [website](https://manifoundationmodel.github.io/)
+## Grasping
 
-### Retargeting Grasp Pose
+* **[arXiv 25]** GraspGen: A Diffusion-based Framework for 6-DOF Grasping, [website](https://graspgen.github.io/)
 
-### Model-based Grasp Synthesis
-* **[wiki]** Signed Distance Function (SDF), [wiki](https://en.wikipedia.org/wiki/Signed_distance_function#:~:text=In%20mathematics%20and%20its%20applications,in%20the%20interior%20of%20%CE%A9.)
+## Cross-Embodiment
 
-
-### Dataset & Benchmark for Dexterous Hand
-* **[arXiv 24]** DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning, [website](https://dexmimicgen.github.io/)
-
-* **[CVPR 19 (Oral, Best Paper Finalist)]** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging, [website](https://arxiv.org/pdf/1904.06830)/[Code](https://github.com/samarth-robo/contactdb_prediction)
-
-* **[ECCV 20]** ContactPose: A Dataset of Grasps with Object Contact and Hand Pose, [website](https://contactpose.cc.gatech.edu/)
-
-* **[CVPR 19]** ObMan Dataset synthetic Object Manipulation, [website](https://www.di.ens.fr/willow/research/obman/data/)
-
-* **[ICCV 23]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
-
-* **[ICCV 23]** ContactGen: Generative Contact Modeling for Grasp Generation, [website](https://stevenlsw.github.io/contactgen/)
-
-* **[ICCV 19]** FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images, [website](https://lmb.informatik.uni-freiburg.de/projects/freihand/)
-
-* **[CVPR 20(Oral)]** GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes / YCB-Affordance Dataset, [website](https://enriccorona.github.io/ganhand/)
-
-* **[ECCV 20]** GRAB: A Dataset of Whole-Body Human Grasping of Objects, [Website](https://grab.is.tue.mpg.de/)
-
-* **[CVPR 24]** TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding, [website](https://taco2024.github.io/)
-
-* **[T-PAMI & NIPS 23]** Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation, [website](https://pku-marl.github.io/DexterousHands/) / [short version PDF](https://arxiv.org/pdf/2206.08686)
-
-* **[CVPR 21]** DexYCB: A Benchmark for Capturing Hand Grasping of Objects, [website](https://dex-ycb.github.io/)
-
-* **[CVPR 20]** HOnnotate: A method for 3D Annotation of Hand and Object Poses, [website](https://www.tugraz.at/index.php?id=40231)
-
-* **[CVPR 22]** HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction, [website](https://hoi4d.github.io/)
-
-* **[IJCAI 24]** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand, [website](https://4dvlab.github.io/RealDex_page/)
-
-* **[CVPR 21]** 3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding, [website](https://andlollipopde.github.io/3D-AffordanceNet/#/)
-
-* **[PMLR 22]** DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video, [website](https://proceedings.mlr.press/v164/mandikal22a.html)
-
-* **[CVPR 22]** Human Hands As Probes for Interactive Object Understanding, [website](https://s-gupta.github.io/hands-as-probes/)
-
-## 2. Simulation
-### Simulator
-* **[RAM 04]** Graspit! a versatile simulator for robotic grasping, [website](https://graspit-simulator.github.io/)
-
-### Dexterous Hand
-* **[SIGGRAPH Asia 2017]** MANO - Embodied Hands: Modeling and Capturing Hands and Bodies Together, [website](https://mano.is.tue.mpg.de/)
-
-* **[arXiv 23]** Faive - Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints, [website](https://srl-ethz.github.io/get-ball-rolling/)
-
-Allegro - Allegro robot hand, [website](https://www.wonikrobotics.com/robothand)
-
-Shadow - Shadow Robot: Shadow robot hand, [website](https://www.shadowrobot.com/dexteroushand-series)
-
-BarrettHand, [website](https://barrett.com/barrett-hand)
-
-## 3. Dual-Arm
-* **[CVPR 24]** TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding, [website](https://taco2024.github.io/)
-
-* **[T-PAMI & NIPS 23]** Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation, [website](https://pku-marl.github.io/DexterousHands/) / [short version PDF](https://arxiv.org/pdf/2206.08686)
-
-* **[ICLR 23]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
-
-## 4. Multi-Task
-* **[CoRL 22]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
-
-
-## 5. Real-time Manipulation
-
-* **[RSS 18]** Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach, [website](https://github.com/dougsm/ggcnn)
-
-
-## 6. Learn from Human Video
-
-* **[RSS 22]** Human-to-Robot Imitation in the Wild, [website](https://human2robot.github.io/)
-
-
-## 7. Dataset
-
-* **[CoRL 23]** BridgeData V2: A Dataset for Robot Learning at Scale, [website](https://rail-berkeley.github.io/bridgedata/)
+* **[arXiv 25]** AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation, [website](https://princeton-vl.github.io/anybody/)

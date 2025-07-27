@@ -15,4 +15,4 @@
 
 * **[CVPR 21]** 3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding, [website](https://andlollipopde.github.io/3D-AffordanceNet/#/)
 
-* **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
+

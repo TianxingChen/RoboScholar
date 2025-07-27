@@ -1,52 +1,40 @@
+![](./files/RoboScholar-logo.png)
 <h1 align="center">
-	RoboScholar: A Paper List for Embodied AI and Robotics
+	RoboScholar: A Comprehensive Paper List of Embodied AI and Robotics Research
 </h1>
 
-**此仓库正在维修**
+> Not Ready Yet...
 
-> 
+## Sections
+- Manipulation
+  - Imitation Learning (IL)
+  - Reinforcement Learning (RL)
+  - Humanoid Whole-Body Control
+  - Dexterous Manipulation
+  - World Model
+  - Tectile Manipulation
+- Simulations
+  - Platform
+  - [Dataset & Benchmark](./topics/simulations/dataset_and_benchmark.md)
+- [Robot Hardware]()
+  - [Data Collection](./)
+- [Real World Dataset]()
+- [Robot Nevigation]()
+- [Locomotion]()
+- [LLM Agent for Robotics]()
+- Computer Vision
+  - [Foundation Models & Tools]()
+  - [2DV]()
+  - [3DV]()
+- Embodied AI for X
+  - [Medical]()
 
-## 0. Table of contents
 
-1. Manipulation
-   - Imitation Learning
-      - Diffusion Policy & Diffuser
-      - 
-   - Humanoid
-   - Dexterous Manipulation
-2. LLM for Embodied AI
-   - LLM Agent
-3. Foundation Models for Embodied AI
-   - Affordance
-   - Correspondence
-   - Tracking & Estimation
-   - Generative Models
-4. Reinforcement Learning
-5. Motion Generation
-6. Robot Hardware
-7. Dataset & Benchmark
-
-
-
-1. Diffusion Model for Planning, Policy, and RL
-2. 3D-based Manipulation
-3. 2D-based Manipulation
-4. LLM for robotics
-5. LLM Agent (Planning)
-6. Generative Model for Embodied
-7. Visual Feature: Correspondence, Affordance
-8. Detection & Segmentation
-9. Pose Estimation and Tracking
-10. Humanoid
-11. Dataset & Benchmark
-12. Hardware
-13. 2D to 3D Generation
-14. Gaussion Splatting
-15. Robotics for Medical
-16. Companies
 
 # Recent Random Papers
 Open-Vocabulary 3D Articulated Objects Modeling
+https://arxiv.org/pdf/2507.02747
+* **[arXiv 25]** RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics, [arXiv](https://arxiv.org/abs/2506.04308)
 * **[arXiv 25]** Robo-DM: Data Management For Large Robot Datasets, [arXiv](https://arxiv.org/abs/2505.15558)
 * **[arXiv 25]** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization, [arXiv](https://arxiv.org/abs/2505.15660)
 * **[arXiv 25]** Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2505.13982)
