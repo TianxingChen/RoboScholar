@@ -40,7 +40,6 @@ General Robot Control, [pdf](https://www.physicalintelligence.company/download/p
 
 * **[arXiv 25]** A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation, [website](https://a-embodied.github.io/A0/)
 
-
 * **[arXiv 25]** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model, [website](https://spatialvla.github.io/)
 
 * **[arXiv 25]** UniVLA: Learning to Act Anywhere with Task-centric Latent Actions, [PDF](https://arxiv.org/pdf/2505.06111)
@@ -62,3 +61,5 @@ https://unified-video-action-model.github.io/
 ## Cross-Embodiment
 
 * **[arXiv 25]** AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation, [website](https://princeton-vl.github.io/anybody/)
+
+* **[CoRL 23]** PolyBot: Training One Policy Across Robots While Embracing Variability, [website](https://sites.google.com/view/polybot-multirobot)
